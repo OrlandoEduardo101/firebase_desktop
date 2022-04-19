@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "68228855237",
+    "project_id": "isto-digital",
+    "storage_bucket": "isto-digital.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68228855237:android:b276cc70aef1ce03f107ac",
+        "android_client_info": {
+          "package_name": "com.example.firebase_desktop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68228855237-vqafts8je5v5mmrtp9dj5dq0gai250sr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoAdQP0JcBUVb_bc0v_ngJrznZ5H-GK_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68228855237-vqafts8je5v5mmrtp9dj5dq0gai250sr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
